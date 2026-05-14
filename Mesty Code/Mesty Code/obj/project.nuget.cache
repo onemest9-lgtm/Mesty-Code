@@ -1,0 +1,119 @@
+{
+  "version": 2,
+  "dgSpecHash": "lQb02oEpbX0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\1mmst1\\Desktop\\Mesty Code\\Mesty Code\\Mesty Code\\Mesty Code.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\1mmst1\\.nuget\\packages\\easytabs\\2.0.0\\easytabs.2.0.0.nupkg.sha512",
+    "C:\\Users\\1mmst1\\.nuget\\packages\\fontawesome.sharp\\6.6.0\\fontawesome.sharp.6.6.0.nupkg.sha512",
+    "C:\\Users\\1mmst1\\.nuget\\packages\\jacobslusser.scintillanet\\3.6.3\\jacobslusser.scintillanet.3.6.3.nupkg.sha512",
+    "C:\\Users\\1mmst1\\.nuget\\packages\\materialskin.2\\2.3.1\\materialskin.2.2.3.1.nupkg.sha512",
+    "C:\\Users\\1mmst1\\.nuget\\packages\\svg\\2.4.3\\svg.2.4.3.nupkg.sha512",
+    "C:\\Users\\1mmst1\\.nuget\\packages\\syncfusion.licensing\\33.2.6\\syncfusion.licensing.33.2.6.nupkg.sha512",
+    "C:\\Users\\1mmst1\\.nuget\\packages\\syncfusion.shared.wpf\\33.2.6\\syncfusion.shared.wpf.33.2.6.nupkg.sha512",
+    "C:\\Users\\1mmst1\\.nuget\\packages\\vax-fctb\\2.17.0.203\\vax-fctb.2.17.0.203.nupkg.sha512",
+    "C:\\Users\\1mmst1\\.nuget\\packages\\win32interop.dwmapi\\1.0.1\\win32interop.dwmapi.1.0.1.nupkg.sha512",
+    "C:\\Users\\1mmst1\\.nuget\\packages\\win32interop.gdi32\\1.0.1\\win32interop.gdi32.1.0.1.nupkg.sha512",
+    "C:\\Users\\1mmst1\\.nuget\\packages\\win32interop.kernel32\\1.0.1\\win32interop.kernel32.1.0.1.nupkg.sha512",
+    "C:\\Users\\1mmst1\\.nuget\\packages\\win32interop.user32\\1.0.1\\win32interop.user32.1.0.1.nupkg.sha512",
+    "C:\\Users\\1mmst1\\.nuget\\packages\\win32interop.uxtheme\\1.0.1\\win32interop.uxtheme.1.0.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "message": "Пакет \"EasyTabs 2.0.0\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\", а не целевой платформы проекта \"net10.0-windows7.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "projectPath": "C:\\Users\\1mmst1\\Desktop\\Mesty Code\\Mesty Code\\Mesty Code\\Mesty Code.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\1mmst1\\Desktop\\Mesty Code\\Mesty Code\\Mesty Code\\Mesty Code.csproj",
+      "libraryId": "EasyTabs",
+      "targetGraphs": [
+        "net10.0-windows"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "message": "Пакет \"jacobslusser.ScintillaNET 3.6.3\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\", а не целевой платформы проекта \"net10.0-windows7.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "projectPath": "C:\\Users\\1mmst1\\Desktop\\Mesty Code\\Mesty Code\\Mesty Code\\Mesty Code.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\1mmst1\\Desktop\\Mesty Code\\Mesty Code\\Mesty Code\\Mesty Code.csproj",
+      "libraryId": "jacobslusser.ScintillaNET",
+      "targetGraphs": [
+        "net10.0-windows"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "message": "Пакет \"Svg 2.4.3\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\", а не целевой платформы проекта \"net10.0-windows7.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "projectPath": "C:\\Users\\1mmst1\\Desktop\\Mesty Code\\Mesty Code\\Mesty Code\\Mesty Code.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\1mmst1\\Desktop\\Mesty Code\\Mesty Code\\Mesty Code\\Mesty Code.csproj",
+      "libraryId": "Svg",
+      "targetGraphs": [
+        "net10.0-windows"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "message": "Пакет \"Win32Interop.Dwmapi 1.0.1\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\", а не целевой платформы проекта \"net10.0-windows7.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "projectPath": "C:\\Users\\1mmst1\\Desktop\\Mesty Code\\Mesty Code\\Mesty Code\\Mesty Code.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\1mmst1\\Desktop\\Mesty Code\\Mesty Code\\Mesty Code\\Mesty Code.csproj",
+      "libraryId": "Win32Interop.Dwmapi",
+      "targetGraphs": [
+        "net10.0-windows"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "message": "Пакет \"Win32Interop.Gdi32 1.0.1\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\", а не целевой платформы проекта \"net10.0-windows7.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "projectPath": "C:\\Users\\1mmst1\\Desktop\\Mesty Code\\Mesty Code\\Mesty Code\\Mesty Code.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\1mmst1\\Desktop\\Mesty Code\\Mesty Code\\Mesty Code\\Mesty Code.csproj",
+      "libraryId": "Win32Interop.Gdi32",
+      "targetGraphs": [
+        "net10.0-windows"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "message": "Пакет \"Win32Interop.Kernel32 1.0.1\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\", а не целевой платформы проекта \"net10.0-windows7.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "projectPath": "C:\\Users\\1mmst1\\Desktop\\Mesty Code\\Mesty Code\\Mesty Code\\Mesty Code.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\1mmst1\\Desktop\\Mesty Code\\Mesty Code\\Mesty Code\\Mesty Code.csproj",
+      "libraryId": "Win32Interop.Kernel32",
+      "targetGraphs": [
+        "net10.0-windows"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "message": "Пакет \"Win32Interop.User32 1.0.1\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\", а не целевой платформы проекта \"net10.0-windows7.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "projectPath": "C:\\Users\\1mmst1\\Desktop\\Mesty Code\\Mesty Code\\Mesty Code\\Mesty Code.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\1mmst1\\Desktop\\Mesty Code\\Mesty Code\\Mesty Code\\Mesty Code.csproj",
+      "libraryId": "Win32Interop.User32",
+      "targetGraphs": [
+        "net10.0-windows"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "message": "Пакет \"Win32Interop.Uxtheme 1.0.1\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\", а не целевой платформы проекта \"net10.0-windows7.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "projectPath": "C:\\Users\\1mmst1\\Desktop\\Mesty Code\\Mesty Code\\Mesty Code\\Mesty Code.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\1mmst1\\Desktop\\Mesty Code\\Mesty Code\\Mesty Code\\Mesty Code.csproj",
+      "libraryId": "Win32Interop.Uxtheme",
+      "targetGraphs": [
+        "net10.0-windows"
+      ]
+    }
+  ]
+}

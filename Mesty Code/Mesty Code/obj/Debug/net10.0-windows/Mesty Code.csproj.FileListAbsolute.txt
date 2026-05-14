@@ -1,0 +1,35 @@
+C:\Users\1mmst1\Desktop\Mesty Code\Mesty Code\Mesty Code\bin\Debug\net10.0-windows\Mesty Code.exe
+C:\Users\1mmst1\Desktop\Mesty Code\Mesty Code\Mesty Code\bin\Debug\net10.0-windows\Mesty Code.deps.json
+C:\Users\1mmst1\Desktop\Mesty Code\Mesty Code\Mesty Code\bin\Debug\net10.0-windows\Mesty Code.runtimeconfig.json
+C:\Users\1mmst1\Desktop\Mesty Code\Mesty Code\Mesty Code\bin\Debug\net10.0-windows\Mesty Code.dll
+C:\Users\1mmst1\Desktop\Mesty Code\Mesty Code\Mesty Code\bin\Debug\net10.0-windows\Mesty Code.pdb
+C:\Users\1mmst1\Desktop\Mesty Code\Mesty Code\Mesty Code\obj\Debug\net10.0-windows\Mesty_Code.Form1.resources
+C:\Users\1mmst1\Desktop\Mesty Code\Mesty Code\Mesty Code\obj\Debug\net10.0-windows\Mesty Code.csproj.GenerateResource.cache
+C:\Users\1mmst1\Desktop\Mesty Code\Mesty Code\Mesty Code\obj\Debug\net10.0-windows\Mesty Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1mmst1\Desktop\Mesty Code\Mesty Code\Mesty Code\obj\Debug\net10.0-windows\Mesty Code.AssemblyInfoInputs.cache
+C:\Users\1mmst1\Desktop\Mesty Code\Mesty Code\Mesty Code\obj\Debug\net10.0-windows\Mesty Code.AssemblyInfo.cs
+C:\Users\1mmst1\Desktop\Mesty Code\Mesty Code\Mesty Code\obj\Debug\net10.0-windows\Mesty Code.csproj.CoreCompileInputs.cache
+C:\Users\1mmst1\Desktop\Mesty Code\Mesty Code\Mesty Code\obj\Debug\net10.0-windows\Mesty Code.dll
+C:\Users\1mmst1\Desktop\Mesty Code\Mesty Code\Mesty Code\obj\Debug\net10.0-windows\refint\Mesty Code.dll
+C:\Users\1mmst1\Desktop\Mesty Code\Mesty Code\Mesty Code\obj\Debug\net10.0-windows\Mesty Code.pdb
+C:\Users\1mmst1\Desktop\Mesty Code\Mesty Code\Mesty Code\obj\Debug\net10.0-windows\Mesty Code.genruntimeconfig.cache
+C:\Users\1mmst1\Desktop\Mesty Code\Mesty Code\Mesty Code\obj\Debug\net10.0-windows\ref\Mesty Code.dll
+C:\Users\1mmst1\Desktop\Mesty Code\Mesty Code\Mesty Code\bin\Debug\net10.0-windows\FastColoredTextBox.dll
+C:\Users\1mmst1\Desktop\Mesty Code\Mesty Code\Mesty Code\bin\Debug\net10.0-windows\FontAwesome.Sharp.dll
+C:\Users\1mmst1\Desktop\Mesty Code\Mesty Code\Mesty Code\bin\Debug\net10.0-windows\MaterialSkin.dll
+C:\Users\1mmst1\Desktop\Mesty Code\Mesty Code\Mesty Code\obj\Debug\net10.0-windows\Mesty Code.csproj.AssemblyReference.cache
+C:\Users\1mmst1\Desktop\Mesty Code\Mesty Code\Mesty Code\obj\Debug\net10.0-windows\Mesty_Code.Properties.Resources.resources
+C:\Users\1mmst1\Desktop\Mesty Code\Mesty Code\Mesty Code\obj\Debug\net10.0-windows\Mesty Code.csproj.Up2Date
+C:\Users\1mmst1\Desktop\Mesty Code\Mesty Code\Mesty Code\bin\Debug\net10.0-windows\ScintillaNET.dll
+C:\Users\1mmst1\Desktop\Mesty Code\Mesty Code\Mesty Code\bin\Debug\net10.0-windows\Syncfusion.Licensing.dll
+C:\Users\1mmst1\Desktop\Mesty Code\Mesty Code\Mesty Code\bin\Debug\net10.0-windows\Syncfusion.Shared.WPF.dll
+C:\Users\1mmst1\Desktop\Mesty Code\Mesty Code\Mesty Code\bin\Debug\net10.0-windows\EasyTabs.dll
+C:\Users\1mmst1\Desktop\Mesty Code\Mesty Code\Mesty Code\bin\Debug\net10.0-windows\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\1mmst1\Desktop\Mesty Code\Mesty Code\Mesty Code\bin\Debug\net10.0-windows\Microsoft.WindowsAPICodePack.dll
+C:\Users\1mmst1\Desktop\Mesty Code\Mesty Code\Mesty Code\bin\Debug\net10.0-windows\Svg.dll
+C:\Users\1mmst1\Desktop\Mesty Code\Mesty Code\Mesty Code\bin\Debug\net10.0-windows\Win32Interop.Dwmapi.dll
+C:\Users\1mmst1\Desktop\Mesty Code\Mesty Code\Mesty Code\bin\Debug\net10.0-windows\Win32Interop.Gdi32.dll
+C:\Users\1mmst1\Desktop\Mesty Code\Mesty Code\Mesty Code\bin\Debug\net10.0-windows\Win32Interop.Kernel32.dll
+C:\Users\1mmst1\Desktop\Mesty Code\Mesty Code\Mesty Code\bin\Debug\net10.0-windows\Win32Interop.User32.dll
+C:\Users\1mmst1\Desktop\Mesty Code\Mesty Code\Mesty Code\bin\Debug\net10.0-windows\Win32Interop.Uxtheme.dll
+C:\Users\1mmst1\Desktop\Mesty Code\Mesty Code\Mesty Code\obj\Debug\net10.0-windows\Mesty_Code.Form2.resources
