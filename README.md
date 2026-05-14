@@ -10,6 +10,11 @@ And more, how to write code in
 
 To write code, click on the folder and open the folder where your project is located. Create folders, files, and more!
 
+# Links
+
+https://www.donationalerts.com/r/1mmst1off
+
+
 # Scrolled to the end
 
 ![End](https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyajZkcnN3aWd3OTd2bGprYXRqaTA2b2ZueHhpcGVlbHhnMGFzbjc3MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IRFQYGCokErS0/200w.gif)
