@@ -10,6 +10,18 @@ And more, how to write code in
 
 To write code, click on the folder and open the folder where your project is located. Create folders, files, and more!
 
+# Information
+
+When will many features appear?
+
+Many features will appear in beta 1.0, or otherwise, release 1.0.
+
+In this update, I'll try to quickly add everything you need.
+
+As a working marketplace, you can write plugins, so stay tuned!
+
+There will be a lot of new features!
+
 # Links
 
 https://www.donationalerts.com/r/1mmst1off
