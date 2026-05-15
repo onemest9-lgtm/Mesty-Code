@@ -1,6 +1,8 @@
 # Mesty-Code
 Mesty code is a new program for writing code in C#. Good luck!
 
+This is not only a code writer, but there is much more to come!
+
 ![Текст](https://github.com/onemest9-lgtm/Mesty-Code/blob/main/MestyCoDEGit.png)
 
 Here's the program's source code, instructions on how to write plugins, and more, how to create themes in Mesty Code.
